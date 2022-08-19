@@ -8,7 +8,7 @@ const siteMetadata = {
   siteUrl: 'https://yohns.vercel.app',
   siteRepo: 'https://github.com/Yohn/Next-Blog',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  image: '/static/images/avatar.jpg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'jb@jw3b.com',
   github: 'https://github.com/Yohn',
