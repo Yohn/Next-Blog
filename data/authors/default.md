@@ -1,7 +1,7 @@
 ---
 name: John Brittain
 avatar: /static/images/avatar.jpg
-occupation: Database Architect,\nWeb Design and Development,\nGraphic Design
+occupation: Database Architect, Web Design and Development, Graphic Design
 company: JW3B
 email: jb@jw3b.com
 #twitter: https://twitter.com/Twitter

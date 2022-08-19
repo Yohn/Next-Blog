@@ -2,7 +2,7 @@
 title: 'Hello Next.js and Vercel World'
 date: '2022-08-19'
 tags: ['new', 'blog', 'yohn']
-draft: true
+draft: false
 summary: 'I think I'm finally satisfied with a blogging platform'
 ---
 
