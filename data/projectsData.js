@@ -1,19 +1,17 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
+    title: 'Visual Impressions',
+		description: `Built the main website and a digital menu board control panel for clients to sign in and 
+		build, modify, schedule and change the content thats displaying on their screen in their cafe.`,
     imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    href: 'https://www.visualimpressions.net',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
+    title: 'S.E. Explorations',
+		description: `A self employeed friend that has traveled all over the world, and is now helping people with
+		booking their trips from start to finish, with all accommodations in bewtween.`,
     imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    href: 'https://se-explorations.com',
   },
 ]
 
